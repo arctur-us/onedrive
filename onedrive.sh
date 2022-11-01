@@ -10,7 +10,7 @@
 # New directories has to be added to the Backups array.
 # rclone config is located at ~/.config/rclone/rclone.conf.
 # Log files are stored at ~/.log directory.
-# Repo is located https://gitlab.dataart.com/ykhassen/onedrive
+# Repo is located https://github.com/arctur-us/onedrive
 
 function connected() {
 	URL="https://microsoft.com"
